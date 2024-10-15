@@ -1,0 +1,52 @@
+# Prerequisites
+*.d
+
+# cpp related files including doxygen
+.idea
+cmake-build-*
+*.bak_*
+.DS_Store
+html
+rtf
+latex
+*.zip
+__pycache__
+venv
+*.pyc
+__MACOSX
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+#ignore dev_log
+dev_log.md
+
+#ignore octo-nail directory (copy of files from octo-nail repo) (thank you alwaysmohwak!)
+octo-nail/
