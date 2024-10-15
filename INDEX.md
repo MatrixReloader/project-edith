@@ -1,16 +1,11 @@
 # Project EDITH
 
-*This README was last updated on: 10/15/2024.*
+*This INDEX was last updated on: 10/15/2024.*
 
-## Table of Contents
-- [Project EDITH](#project-edith)
-  - [Table of Contents](#table-of-contents)
-  - [What is Project EDITH?](#what-is-project-edith)
-  - [Authors and Acknowledgements {#authors-and-acknowledgements}](#authors-and-acknowledgements-authors-and-acknowledgements)
-  - [Closing Remarks](#closing-remarks)
+[TOC]
 
 ## What is Project EDITH?
-**EDITH**: **E**lectronic **D**evice for **I**ntegrative **T**etrahydrocannabinol **H**ardware
+**EDITH**: **E** (lectronic) **D** (evice for) **I** (ntegrative) **T** (etrahydrocannabinol) **H** (ardware)
 
 *Disclaimer: This project is heavily inspired by a repository from a fellow GitHub user. Check [Acknowledgements](#authors-and-acknowledgements) for more details.*
 
@@ -23,9 +18,9 @@ Keyword soup for things related to this project: (Blah)
 ---
 
 ## Authors and Acknowledgements {#authors-and-acknowledgements}
-Sole code author: [@MatrixReloader](https://github.com/MatrixReloader). The project is graciously funded by myself and my two friends, "M" and "D".
+Sole code author: [MatrixReloader](https://github.com/MatrixReloader). The project is graciously funded by myself and my two friends, "M" and "D".
 
-Special thanks to [@alwaysmohawk](https://github.com/alwaysmohawk) for their project [Octo-Nail](https://github.com/alwaysmohawk/octo-nail). The license is inherited from this project. See [LICENSE](LICENSE.md) for more details.
+Special thanks to [alwaysmohawk](https://github.com/alwaysmohawk) for their project [Octo-Nail](https://github.com/alwaysmohawk/octo-nail). The license is inherited from this project. See [LICENSE](LICENSE.md) for more details.
 
 ## Closing Remarks
 If you've read this far, thank you for your interest! I'd love to hear your comments, criticisms, or ideas. This project will be a work in progress for the foreseeable future, and I hope to develop the codebase and build new peripherals for EDITH as time goes on.
