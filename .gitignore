@@ -1,8 +1,7 @@
 # Prerequisites
 *.d
 
-# cpp related files including doxygen + vscode
-.vscode
+# cpp related files including doxygen
 .idea
 cmake-build-*
 *.bak_*
@@ -50,3 +49,8 @@ dev_log.md
 
 #ignore octo-nail directory (copy of files from octo-nail repo) (thank you alwaysmohwak!)
 octo-nail/
+
+#ignore vscode and visual studio stuff
+.vs
+.vscode
+build/
