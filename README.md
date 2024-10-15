@@ -1,28 +1,29 @@
 # Project EDITH
-This README last updated: 10/15/2024.
 
-## Table of Contents
-- [Project EDITH](#project-edith)
-  - [Table of Contents](#table-of-contents)
-  - [What is Project EDITH?](#what-is-project-edith)
-  - [Authors and Acknowledgements](#authors-and-acknowledgements)
-  - [Closing Remarks](#closing-remarks)
+*This README was last updated on: 10/15/2024.*
+
+[TOC]
 
 ## What is Project EDITH?
-**EDITH**: **E**lectronic **D**evice for **I**ntegrative **T**etrahydrocannabinol **H**ardware
+**EDITH**: **E** (lectronic) **D** (evice for) **I** (ntegrative) **T** (etrahydrocannabinol) **H** (ardware)
 
-*Disclaimer: This project is heavily inspired by a repo from a fello github user. Check [acknowledgements](#authors-and-acknowledgements).*
+### example subsubheading
 
-This project is a modern C++ based e-nail device that allows for different nail configurations and consumption peripherals. Solo code developer, with two friends providing additional funding for this project.
 
-This project is a test for my programming skills, and to make a public repo for people to see. Kinda crazy that I went with a repo on making a device to improve the THC consumption experience, but oh well.
+*Disclaimer: This project is heavily inspired by a repository from a fellow GitHub user. Check [Acknowledgements](#authors-and-acknowledgements) for more details.*
 
-Keyword soup for things related to this project: \(Blah\)
+This project is a modern C++-based e-nail device that allows for various nail configurations and consumption peripherals. I am the sole developer, with two friends providing additional funding for this project.
 
-## Authors and Acknowledgements
-Sole code author: [@MatrixReloader](https://github.com/MatrixReloader). Project graciously funded by author and his two friends, "M" and "D".
+This project serves as a test of my programming skills and aims to create a public repository for others to see. It may seem a bit unconventional to create a project focused on enhancing the THC consumption experience, but I'm excited about it!
 
-Special thanks to [@alwaysmohawk](https://github.com/alwaysmohawk) for their project [octo-nail](https://github.com/alwaysmohawk/octo-nail). [License](/LICENSE) inherited from said.
+Keyword soup for things related to this project: (Blah)
+
+---
+
+## Authors and Acknowledgements {#authors-and-acknowledgements}
+Sole code author: [MatrixReloader](https://github.com/MatrixReloader). The project is graciously funded by myself and my two friends, "M" and "D".
+
+Special thanks to [alwaysmohawk](https://github.com/alwaysmohawk) for their project [Octo-Nail](https://github.com/alwaysmohawk/octo-nail). The license is inherited from this project. See [LICENSE](LICENSE.md) for more details.
 
 ## Closing Remarks
-If you've read this far thank you for your interest; I'd love to hear from you with comments, criticism or ideas! This project is going to be pretty much a work in progress for the forseablb future, and I hope to develop the codebase and build new peripherals for EDITH as days go by. 
+If you've read this far, thank you for your interest! I'd love to hear your comments, criticisms, or ideas. This project will be a work in progress for the foreseeable future, and I hope to develop the codebase and build new peripherals for EDITH as time goes on.

@@ -1,12 +1,12 @@
 # Prerequisites
 *.d
 
-# cpp related files including doxygen
+# cpp related files including doxygen + vscode
+.vscode
 .idea
 cmake-build-*
 *.bak_*
 .DS_Store
-html
 rtf
 latex
 *.zip

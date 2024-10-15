@@ -26,6 +26,7 @@ using namespace std;
  *
  * Features memory leak debugger (lldb)
  * @return exit code
+ * @todo this is just an example todo task
  */
 int main() {
 #ifdef WIN32
